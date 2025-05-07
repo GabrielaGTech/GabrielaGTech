@@ -4,7 +4,7 @@ Sou formada em 🎓**Produção Audiovisual** e 👩‍🎓**Aluna do Bootcamp d
 
 ---
 
-## ⚙️🔧 **Tecnologias e Ferramentas**
+## ⚙️**Tecnologias e Ferramentas**🔧
 
 Tenho experiência com:
 
