@@ -1,6 +1,6 @@
 - # 👩‍💻 Olá, eu sou a Gabriela Genangelo 👩‍💻
 
-Sou formada em 🎓**Produção Audiovisual** e 👩‍🎓**Aluna do Bootcamp da #Laboratoria**. Minha **Paixão** está em **Análisar Dados**, **Criar Dashboards Interativos**, **Transformar Dados Brutos em Insights Estratégicos**.
+Sou formada em 🎓**Produção Audiovisual** e 👩‍🎓**Aluna do Bootcamp da #Laboratoria**. Minha **Paixão** está em **Análisar Dados**, **Criar Dashboards Interativos** e **Transformar Dados Brutos em Insights Estratégicos**.
 
 ---
 
