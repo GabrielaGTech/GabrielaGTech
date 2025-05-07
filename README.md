@@ -16,5 +16,5 @@ Tenho experiência com:
 
 Atualmente, estou focada em aprender e me aprimorar para me destacar no mercado de tecnologia e impulsionar minha carreira profissional.
 
-- 💼 **LinkedIn**: (https://www.linkedin.com/in/gabriela-ferreira-genangelo-025055167/)
+- 💼 **Meu LinkedIn**: https://www.linkedin.com/in/gabriela-ferreira-genangelo-025055167/
   
