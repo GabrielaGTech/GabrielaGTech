@@ -12,7 +12,7 @@ Tenho experiência com:
 - **Google Sheets** 📊
 - **Google Slides** 📚
 - **Looker Studio** 💡
-- - **OpenAI** 🤖
+- **OpenAI** 🤖
 
 Atualmente, estou focada em aprender e me aprimorar para me destacar no mercado de tecnologia e impulsionar minha carreira profissional.
 
