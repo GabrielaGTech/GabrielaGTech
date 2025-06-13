@@ -9,6 +9,11 @@ Sou formada em 🎓**Produção Audiovisual** e 👩‍🎓**Aluna do Bootcamp d
 Tenho experiência com:
 
 - **Criação de Dashboards**
+- **SQL** 🔎
+- **Python** 💻
+- **Google Colab** 💻
+- **BigQuery** 🧠
+- **Power BI** 📈
 - **Google Sheets** 📊
 - **Google Slides** 📚
 - **Looker Studio** 💡
