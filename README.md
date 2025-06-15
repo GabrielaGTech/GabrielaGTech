@@ -17,7 +17,7 @@ Sou formada em 🎓**Produção Audiovisual** e 👩‍🎓**Aluna do Bootcamp d
 - **Looker Studio** 💡
 - **OpenAI** 🤖
 
-Atualmente, estou focada em aprender e me aprimorar para me destacar no mercado de tecnologia e impulsionar minha carreira profissional.
+Atualmente, estou focada em adquirir novos conhecimentos e desenvolver habilidades para realizar uma transição bem-sucedida para a área de tecnologia e, assim, impulsionar minha carreira profissional.
 
 - 💼 **Meu LinkedIn**: www.linkedin.com/in/gabrielagenangelo
 
