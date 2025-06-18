@@ -1,6 +1,6 @@
 - # 👩‍💻 Olá, eu sou a Gabriela Genangelo 👩‍💻
 
-Sou formada em 🎓**Produção Audiovisual** e 👩‍🎓**Aluna do Bootcamp da #Laboratoria**. Desenvolvendo habilidades em **Análisar Dados**, **Segmentar Clientes Utilizando a Métodologia RFM**, **Confirmar e refutar hipóteses**, **Criar Dashboards Interativos** e **Transformar Dados Brutos em Insights Estratégicos**.
+Sou formada em 🎓**Produção Audiovisual** e 👩‍🎓**Aluna do Curso Intensivo (Jornada de Dados), da #Laboratoria**. Desenvolvendo habilidades em **Análisar Dados**, **Segmentar Clientes Utilizando a Métodologia RFM**, **Confirmar e refutar hipóteses**, **Criar Dashboards Interativos** e **Transformar Dados Brutos em Insights Estratégicos**.
 
 ---
 
