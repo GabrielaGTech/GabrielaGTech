@@ -1,12 +1,14 @@
 - # 👩‍💻 Olá, eu sou a Gabriela Genangelo 👩‍💻
 
-Sou formada em 🎓**Produção Audiovisual** e 👩‍🎓**Aluna do Curso Intensivo (Jornada de Dados), da #Laboratoria**. Desenvolvendo habilidades em **Análisar Dados**, **Segmentar Clientes Utilizando a Métodologia RFM**, **Confirmar e refutar hipóteses**, **Criar Dashboards Interativos** e **Transformar Dados Brutos em Insights Estratégicos**.
+👩‍🎓**Aluna do Curso Intensivo (Jornada de Dados), da #Laboratoria**. Desenvolvendo habilidades em **análise de dados, segmentação de clientes, estatística aplicada, modelagem preditiva, validação de hipóteses, criação de dashboards interativos e transformação de dados brutos em insights estratégicos**, com o objetivo de gerar decisões informadas e de alto impacto para os negócios.
+
+Formada em 🎓**Produção Audiovisual**
+**Especialista em Atendimento ao Cliente**
 
 ---
 
 ## ⚙️**Tecnologias e Ferramentas**🔧
 
-- **Criação de Dashboards**
 - **SQL** 🔎
 - **Python** 💻
 - **Google Colab** 💻
@@ -16,8 +18,9 @@ Sou formada em 🎓**Produção Audiovisual** e 👩‍🎓**Aluna do Curso Inte
 - **Google Slides** 📚
 - **Looker Studio** 💡
 - **OpenAI** 🤖
+- **Criação de Dashboards**
 
-Atualmente, estou focada em adquirir novos conhecimentos e desenvolver habilidades para realizar uma transição bem-sucedida para a área de tecnologia e, assim, impulsionar minha carreira profissional.
+Atualmente, estou focada em adquirir novos conhecimentos e aprimorar habilidades técnicas para realizar uma transição bem-sucedida para a área de tecnologia. Sou uma profissional dedicada e comprometida, sempre em busca de entregar o meu melhor em tudo o que faço. Assim como os dados, quero ter o poder de transformar realidades e processos, aplicando minha experiência de forma estratégica para agregar valor real ao setor e alavancar minha carreira.
 
 - 💼 **Meu LinkedIn**: www.linkedin.com/in/gabrielagenangelo
 
