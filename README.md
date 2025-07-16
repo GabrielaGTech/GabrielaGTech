@@ -2,7 +2,7 @@
 
 👩‍🎓**Aluna do Curso Intensivo (Jornada de Dados), da #Laboratoria**. Desenvolvendo habilidades em **análise de dados, segmentação de clientes, estatística aplicada, modelagem preditiva, validação de hipóteses, criação de dashboards interativos e transformação de dados brutos em insights estratégicos**, com o objetivo de gerar decisões informadas e de alto impacto para os negócios.
 
-Formada em 🎓**Produção Audiovisual**
+🎓**Formada em Produção Audiovisual**
 
 💼 **Especialista em Atendimento ao Cliente**
 
